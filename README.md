@@ -8,6 +8,27 @@
   ♦Email me: Augusthillarywindy@gmail.com
   <img src="https://c.tenor.com/s-XyqNCtw7QAAAAj/telegram.gif" width="30px">Contact me on Telegram: https://t.me/CatPihchan
   <img src="https://c.tenor.com/vckuy-eHM48AAAAj/ig-instagram.gif" width="30px">DM me on Instagram: https://www.instagram.com/akainekobimi/
+  <br/>
+  <br/>
+  <br/>
+  <img src="https://media.tenor.com/images/c01210f9ff47b55788e854446260e857/tenor.gif">
+  <img src="https://media.tenor.com/images/f7fbab7163246c702d552da18a78ccea/tenor.gif">
+  
+
+
+<br/>
+<br/>
+
+# My Cards<img src="https://c.tenor.com/jQ6Nnyp2zLoAAAAj/diwali-sparkles-playing-cards.gif" width="30px">
+
+<br/>
+
+![August's GitHub stats](https://github-readme-stats.vercel.app/api?username=diabolicaugust&show_icons=true&theme=tokyonight&locale=ru)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diabolicaugust&repo=TodoApp&theme=tokyonight)](https://github.com/DiabolicAugust/TodoApp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diabolicaugust&theme=tokyonight)](https://github.com/diabolicaugust/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diabolicaugust)](https://github.com/diabolicaugust/github-readme-stats)
+
+
 
 
 
