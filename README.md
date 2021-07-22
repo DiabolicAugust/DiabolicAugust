@@ -5,9 +5,11 @@
 - 👀 I’m interested in React Native:computer:,cats<img src="https://c.tenor.com/TZZ3vKemf3UAAAAj/peach-meow.gif" width="30px"> and everything sweet<img src="https://c.tenor.com/1CAe3IT5l2AAAAAj/the-blobs-live-on-birthday-cake.gif" width="30px">.
 - 🌱 I’m currently learning React Native and ECMAscript<img src="https://c.tenor.com/TReUojNlZ6wAAAAj/js-javascript.gif" width="30px">
 - 📫 How to reach me:
-  ♦Email me: Augusthillarywindy@gmail.com
-  <img src="https://c.tenor.com/s-XyqNCtw7QAAAAj/telegram.gif" width="30px">Contact me on Telegram: https://t.me/CatPihchan
-  <img src="https://c.tenor.com/vckuy-eHM48AAAAj/ig-instagram.gif" width="30px">DM me on Instagram: https://www.instagram.com/akainekobimi/
+ <br/> ♦Email me: Augusthillarywindy@gmail.com
+    <br/>
+  <img src="https://c.tenor.com/s-XyqNCtw7QAAAAj/telegram.gif" width="30px"> Contact me on Telegram: https://t.me/CatPihchan
+    <br/>
+  <img src="https://c.tenor.com/vckuy-eHM48AAAAj/ig-instagram.gif" width="30px"> DM me on Instagram: https://www.instagram.com/akainekobimi/
   <br/>
   <br/>
   <br/>
