@@ -28,7 +28,7 @@
 ![August's GitHub stats](https://github-readme-stats.vercel.app/api?username=diabolicaugust&show_icons=true&theme=tokyonight&locale=ru)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diabolicaugust&repo=TodoApp&theme=tokyonight)](https://github.com/DiabolicAugust/TodoApp)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diabolicaugust&theme=tokyonight)](https://github.com/diabolicaugust/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diabolicaugust)](https://github.com/diabolicaugust/github-readme-stats)
+[![August's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diabolicaugust)](https://github.com/diabolicaugust/github-readme-stats)
 
 
 
