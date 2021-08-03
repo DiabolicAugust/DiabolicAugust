@@ -1,9 +1,9 @@
 # Hello, sweeties! <img src="https://c.tenor.com/Yf0qNygeLhMAAAAj/hearts-spin.gif" width="30px">
 <br/>
 
-- <img src = "https://c.tenor.com/HO7EBVsu04oAAAAj/pikachu-pokemon.gif" width="30px"> Hi, I’m August-Hillary Windy
+- <img src = "https://c.tenor.com/HO7EBVsu04oAAAAj/pikachu-pokemon.gif" width="30px"> Hi, I’m Brodskiy Gleb
 - 👀 I’m interested in React Native:computer:,cats<img src="https://c.tenor.com/TZZ3vKemf3UAAAAj/peach-meow.gif" width="30px"> and everything sweet<img src="https://c.tenor.com/1CAe3IT5l2AAAAAj/the-blobs-live-on-birthday-cake.gif" width="30px">.
-- 🌱 I’m currently learning React Native and ECMAscript<img src="https://c.tenor.com/TReUojNlZ6wAAAAj/js-javascript.gif" width="30px">
+- 🌱 I’m currently learning React Native, React and ECMAscript<img src="https://c.tenor.com/TReUojNlZ6wAAAAj/js-javascript.gif" width="30px">
 - 📫 How to reach me:
  <br/> ♦Email me: Augusthillarywindy@gmail.com
     <br/>
@@ -13,7 +13,6 @@
   <br/>
   <br/>
   <br/>
-  <img src="https://media.tenor.com/images/c01210f9ff47b55788e854446260e857/tenor.gif">
   <img src="https://media.tenor.com/images/f7fbab7163246c702d552da18a78ccea/tenor.gif">
   
 
@@ -26,9 +25,9 @@
 <br/>
 
 ![August's GitHub stats](https://github-readme-stats.vercel.app/api?username=diabolicaugust&show_icons=true&theme=tokyonight&locale=ru)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diabolicaugust&repo=TodoApp&theme=tokyonight)](https://github.com/DiabolicAugust/TodoApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diabolicaugust&repo=TodoApp&theme=tokyonight)](https://github.com/DiabolicAugust/NewsApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diabolicaugust&repo=TodoApp&theme=tokyonight)](https://github.com/DiabolicAugust/ToolsetApp)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diabolicaugust&theme=tokyonight)](https://github.com/diabolicaugust/github-readme-stats)
-[![August's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diabolicaugust)](https://github.com/diabolicaugust/github-readme-stats)
 
 
 
