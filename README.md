@@ -2,6 +2,7 @@
 <br/>
 
 - <img src = "https://c.tenor.com/HO7EBVsu04oAAAAj/pikachu-pokemon.gif" width="30px"> Hi, I’m Brodskiy Gleb
+- Currently working on this project: https://github.com/nike1v/KhPI_UI
 - 👀 I’m interested in React Native:computer:,cats<img src="https://c.tenor.com/TZZ3vKemf3UAAAAj/peach-meow.gif" width="30px"> and everything sweet<img src="https://c.tenor.com/1CAe3IT5l2AAAAAj/the-blobs-live-on-birthday-cake.gif" width="30px">.
 - 🌱 I’m currently learning React Native, React and ECMAscript<img src="https://c.tenor.com/TReUojNlZ6wAAAAj/js-javascript.gif" width="30px">
 - 📫 How to reach me:
