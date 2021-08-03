@@ -25,8 +25,8 @@
 <br/>
 
 ![August's GitHub stats](https://github-readme-stats.vercel.app/api?username=diabolicaugust&show_icons=true&theme=tokyonight&locale=ru)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diabolicaugust&repo=TodoApp&theme=tokyonight)](https://github.com/DiabolicAugust/NewsApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diabolicaugust&repo=TodoApp&theme=tokyonight)](https://github.com/DiabolicAugust/ToolsetApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diabolicaugust&repo=NewsApp&theme=tokyonight)](https://github.com/DiabolicAugust/NewsApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diabolicaugust&repo=ToolsetApp&theme=tokyonight)](https://github.com/DiabolicAugust/ToolsetApp)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diabolicaugust&theme=tokyonight)](https://github.com/diabolicaugust/github-readme-stats)
 
 
