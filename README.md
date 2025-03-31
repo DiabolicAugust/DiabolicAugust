@@ -1,13 +1,13 @@
 # Hello, sweeties! <img src="https://c.tenor.com/Yf0qNygeLhMAAAAj/hearts-spin.gif" width="30px">
 <br/>
 
-- <img src = "https://c.tenor.com/HO7EBVsu04oAAAAj/pikachu-pokemon.gif" width="30px"> Hi, I’m Brodskiy Gleb!
+- <img src = "https://c.tenor.com/HO7EBVsu04oAAAAj/pikachu-pokemon.gif" width="30px"> Hi, I’m Hlib, but you can call me Morgan!
 - 📫 How to reach me:
- <br/> ♦Email me: Augusthillarywindy@gmail.com
+ <br/> ♦Email me: brodskiy.glib@gmail.com
     <br/>
-  <img src="https://c.tenor.com/s-XyqNCtw7QAAAAj/telegram.gif" width="30px"> Contact me on Telegram: https://t.me/CatPihchan
+  <img src="https://c.tenor.com/s-XyqNCtw7QAAAAj/telegram.gif" width="30px"> Contact me on Telegram: https://t.me/MorganInDarkness
     <br/>
-  <img src="https://c.tenor.com/vckuy-eHM48AAAAj/ig-instagram.gif" width="30px"> DM me on Instagram: https://www.instagram.com/akainekobimi/
+  <img src="https://c.tenor.com/vckuy-eHM48AAAAj/ig-instagram.gif" width="30px"> DM me on Instagram: https://www.instagram.com/morganindarkness
   <br/>
   <br/>
   <br/>
