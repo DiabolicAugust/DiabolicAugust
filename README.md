@@ -1,4 +1,4 @@
-# Hello, sweeties! <img src="https://c.tenor.com/Yf0qNygeLhMAAAAj/hearts-spin.gif" width="30px">
+# Hello, guys! <img src="https://c.tenor.com/Yf0qNygeLhMAAAAj/hearts-spin.gif" width="30px">
 <br/>
 
 - <img src = "https://c.tenor.com/HO7EBVsu04oAAAAj/pikachu-pokemon.gif" width="30px"> Hi, I’m Hlib, but you can call me Morgan!
